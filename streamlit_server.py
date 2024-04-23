@@ -8,7 +8,7 @@ from streamlit_autorefresh import st_autorefresh
 STARTING_PRICE = 10000
 BID_BUTTON_FUNCTIONALITY = True
 REFRESH_INTERVAL = 1000  # in milliseconds
-IMAGE_PATHS = ['img/img_1.jpg', 'img/img_2.jpg']
+IMAGE_PATHS = ['img/img_1.jpg', 'img/img_2.jpg', 'img/img_3.jpg']
 
 # Configure the Streamlit page
 st.set_page_config(page_title="Leber zu verkaufen", page_icon="❤️", layout="wide", initial_sidebar_state="expanded")
